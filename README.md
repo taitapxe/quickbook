@@ -143,5 +143,9 @@ Compatible with Windows 10+ and macOS X 11+ only.
 **What are common installation issues?**  
 Ensure that your PC meets all system requirements and attempt reinstall if problems arise during initial attempts.
 
+---
+
 ## Read Also
 - [GnuCash Install: A Comprehensive Guide](https://github.com/taitapxe/gnucash/blob/main/README.md)
+- [How to Install CoinTracker: Step-by-Step Guide](https://github.com/taitapxe/quickbooks/blob/main/README.md)
+- [Sierra Chart Software: A Comprehensive Installation Guide ](https://github.com/taitapxe/sierra_chart/blob/main/README.md)
