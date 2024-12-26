@@ -65,6 +65,8 @@
 
 5. **Complete Installation Process**
    - Hit 'Finish' when prompted after setup completes.
+  
+*Personal Recommendation: If you're looking for a straightforward way to streamline your accounting, I suggest checking out the article "Download QuickBooks Simple Start Software for Free": [Link](https://sandpipercoveapts.com/free-quickbooks-simple-start-software-download/). It provides detailed instructions on how to get started with this useful software at no cost.*
 
 **Alternative Installation Method:**
 
